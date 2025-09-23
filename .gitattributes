@@ -1,0 +1,12 @@
+*.aiml linguist-language=Aiml linguist-vendored=false
+*.config linguist-language=Config linguist-vendored=false
+*.cs linguist-language=C# linguist-vendored=false
+*.csproj linguist-language=Csproj linguist-vendored=false
+*.dll linguist-language=Dll linguist-vendored=false
+*.gitattributes linguist-language=Git linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.ico linguist-language=Ico linguist-vendored=false
+*.resx linguist-language=Resx linguist-vendored=false
+*.settings linguist-language=Settings linguist-vendored=false
+*.sln linguist-language=Sln linguist-vendored=false
+*.xml linguist-language=Xml linguist-vendored=false
